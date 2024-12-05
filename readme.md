@@ -533,6 +533,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [eza](https://github.com/eza-community/eza) - Improved version of `ls`.
 - [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
+- [lla](https://github.com/triyanox/lla) - improved `ls` with plugins
 - [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
 ### Directory Navigation
